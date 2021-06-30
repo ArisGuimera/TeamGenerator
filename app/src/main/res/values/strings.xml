@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Team Maker - Team Generator</string>
+    <string name="add_user">Introduce un nuevo jugador</string>
+    <string name="btn_add_user">Añadir</string>
+    <string name="btn_generate_team">Generar equipo</string>
+    <string name="btn_reset">Reiniciar</string>
+</resources>

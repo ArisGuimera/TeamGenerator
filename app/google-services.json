@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "303209872959",
+    "project_id": "teamgenerator-ab14d",
+    "storage_bucket": "teamgenerator-ab14d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:303209872959:android:06a4b7ce64ec0ba07cc28a",
+        "android_client_info": {
+          "package_name": "com.teammaker.teamgenerator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "303209872959-20c4aeul37fp2aivs2v4d5h1qehhhcdj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQxGPNXGdUveRACyK7C7G4Mmm_xOIBs5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "303209872959-20c4aeul37fp2aivs2v4d5h1qehhhcdj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
